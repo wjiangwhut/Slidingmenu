@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_1c7a4f438b4ac64a0998063054466c6df7bf5273/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_a9402d8ce4ed12d4b63555f917d0b71231175016/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_980ebc899b709a783767657c12fa1e9afead966c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_c01f64d5887d5d36412b0d77686cdcf232fca869/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_875b09aa632982868ae14cc7e97dcdb774bc6c02/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_a659d57ba905fcb873b6906df93c16a67b06c9cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="847333c6794d27c6adc779f55808240a9488d4be">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a722c280b06f59f444f8e22d17a66e967625dcba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="62c489fc159bd743f7a476836563b3bd923fc120">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_db10a1f7f0e02b3c830723b539894c6fad46ea14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_cc32184ad55f02b2093753955b3e34778763f762/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_eccc66f1a752155eb339eec6fa57b06b1e7090ea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_ee88a3cb23be07abb6317f478b04bf58401eae18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.3.1_83c1d485e0ca305677e6d2ac4c53b0ab80588783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_b974ad97b1dd7d4e6da37827efd97b96a4bb057d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_3e088cb0661eb50956269f711b4135fd4310c2a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="650311dc833a078ae0d8614e19ce67d8b126f6c0">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_762da7ea55f894f15b52c6db48e7a5c103430ad6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_12c21a9291533aa128b5037e23bae95bddf34136/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.3.1_c262323800acf35d39107b610411d2e62f8020db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bddbf2cae3cecd8b56a38816e13805e3a35308bf">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2dfa4e126cedc376e5d65ecf6e7506060aa2d079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.3.1_8f05e76d14f351c7eaef7e1b66414fd0e14ca057/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.3.1_0d57115712184749646d35590ead0b0fffc41cb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.3.1_eec6697a744440d9fbb460e03df29a6deae5859d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.3.1_beca4d86679dd59fd1b9f4ed624fbe5fa2f90c5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.3.1_52d5134daf6374ca44a78b7ac87e3ccbe5ef5b5a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.3.1_403b961768ebe46145a82a72571807c7abe7d27f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jiangwei/Downloads/Slidemenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.3.1_b152c8c090454054ca3355748a34030949275290/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jiangwei/dev/Slidingmenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.3.1_4855a1b9e59302e21454995a11fc378e092c6cce/classes.dex" />
+    </item>
+
+</items>
